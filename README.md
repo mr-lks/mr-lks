@@ -1,4 +1,3 @@
-# 💫 About Me:# Hello, About Me!<br><br>Hello! My name is Ömer . I have 8 years of industry experience in web technologies, and I have been professionally involved in game development for the past 3 years.<br>
 
 
 ## 🌐 Socials:
