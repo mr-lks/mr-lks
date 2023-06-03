@@ -1,4 +1,3 @@
-
 <h2> Socials </h2>
 <p align="left">
 <a href="https://twitter.com/Mr__Lks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr__Lks" height="30" width="40" /></a>
