@@ -109,14 +109,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=mr-lks&theme=radical&no-frame=false&no-bg=true&margin-w=1" width="auto" />
+      <img src="https://github-profile-trophy.vercel.app/?username=mr-lks&theme=vue-dark&no-frame=false&no-bg=true&margin-w=1" width="auto" />
     </td>
   </tr>
 </table>
 
 <h2> Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
 
 ---
 <div>
