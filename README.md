@@ -1,7 +1,7 @@
 <h2> Socials </h2>
 <p align="left">
 <a href="https://twitter.com/Mr__Lks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr__Lks" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mrgeohot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgeohot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mr-lks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgeohot" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/mrgeohot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mrgeohot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alakusomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alakusomer" height="30" width="40" /></a>
 <a href="https://discord.gg/XxQrb2UF8Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XxQrb2UF8Z" height="30" width="40" /></a>
